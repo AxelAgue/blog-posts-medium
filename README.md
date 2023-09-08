@@ -1,6 +1,6 @@
 # Medium Blog Posts
 
-This repository contains Jupyter notebooks related to medium blog posts.
+👋 This repository contains Jupyter notebooks related to medium blog posts.
 
 ## Setting Up the Development Environment
 
