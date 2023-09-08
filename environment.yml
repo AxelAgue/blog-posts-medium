@@ -1,0 +1,13 @@
+name: base
+channels:
+  - defaults
+  - pip:
+      - arviz==0.16.1
+      - cachetools==5.3.1
+      - causalpy==0.1.0
+      - fastprogress==1.0.3
+      - pymc3==3.11.4
+      - pytensor==2.15.0
+      - python-graphviz==0.20.1
+      - semver==3.0.1
+      - theano-pymc==1.1.2
