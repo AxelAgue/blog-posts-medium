@@ -7,5 +7,5 @@
 Follow the steps below to set up the development environment using Conda:
 ```
 conda env create -f environment.yml
-conda activate your_environment_name
+conda activate blog-posts
 ```
