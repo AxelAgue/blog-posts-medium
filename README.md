@@ -4,7 +4,8 @@ This repository contains Jupyter notebooks related to medium blog posts.
 
 ## Setting Up the Development Environment
 
-We use Conda for managing our virtual environment and dependencies. Follow the steps below to set up the development environment:
-
+Follow the steps below to set up the development environment using Conda:
+```
 conda env create -f environment.yml
 conda activate your_environment_name
+```
